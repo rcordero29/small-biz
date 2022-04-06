@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Name": "Jenny Chan",
+    "address": "3 waterfoot road",
+    "phoneNumber": "333-962-7516"
+  },
+  {
+    "id": 2,
+    "Name": "Jessica warren",
+    "address": "4 tall town",
+    "phoneNumber": "011-211-7516"
+  },
+  {
+    "id": 3,
+    "Name": "Tony Frank",
+    "address": "11 lesly road",
+    "phoneNumber": "788-962-7516"
+  },
+  {
+    "id": 4,
+    "Name": "Jeremy Clark",
+    "address": "333 miltown manor",
+    "phoneNumber": "011-962-111"
+  },
+  {
+    "id": 5,
+    "Name": "Raymond Edwards",
+    "address": "99 blue acres",
+    "phoneNumber": "3231-962-7516"
+  }
+]
