@@ -1,18 +1,14 @@
 import React,{ useState} from "react"
+import { Button } from "@mui/material";
 import App from "./App"
 import data from "./restrauntData.json"
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
-
-
+import TextField from '@material-ui/core/TextField';
+import { makeStyles } from '@material-ui/core/styles'
 
 function Details() {
   return ( 
-    <Router>
-  <div className="table-container">
-this is out detail page
-<h1>test test test</h1>
-  </div>
-  </Router>
+<div>Test</div>
   )}
 
 export default Details
